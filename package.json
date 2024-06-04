@@ -20,7 +20,7 @@
     "markdown"
   ],
   "engines": {
-    "node": ">=20.11.0"
+    "node": ">=20.x"
   },
   "type": "module",
   "main": "dist/docsify.js",
